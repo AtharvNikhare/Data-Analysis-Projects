@@ -1,2 +1,2 @@
 # Data-Analysis-Projects
-Projects are basically on "Exploratory Data Analysis"
+Projects are based on "Exploratory Data Analysis"
